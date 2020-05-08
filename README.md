@@ -34,6 +34,9 @@ Furkan Tarık GÖÇMEN
 * **Lectures slides and course videos are regularly updated. You should follow this web site, as well.**
 * **All communications with the Prof. should be via his personal assistant..**
 
+## Project
+* **Groups [(pdf)](https://github.com/furkantarikgocmen/CENG101/blob/master/Project_Groups.pdf)**
+
 ## Slides
 * **Course Overview [(ppt)](https://github.com/furkantarikgocmen/CENG101/raw/master/ppts/Course%20Overview.ppt)**
 * **About Prof. Ozarar [(ppt)](https://github.com/furkantarikgocmen/CENG101/raw/master/ppts/About%20Prof%20Ozarar.pptx)**
