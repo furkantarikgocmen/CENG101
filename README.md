@@ -35,7 +35,7 @@ Furkan Tarık GÖÇMEN
 * **All communications with the Prof. should be via his personal assistant..**
 
 ## Project
-* **Groups [(pdf)](https://github.com/furkantarikgocmen/CENG101/blob/master/Project_Groups.pdf)**
+* **Groups [(pdf)](https://github.com/furkantarikgocmen/CENG101/blob/master/Project_Groups.pdf) [(xlsx)](https://github.com/furkantarikgocmen/CENG101/blob/master/Project_Groups.xlsx?raw=true)**
 
 ## Slides
 * **Course Overview [(ppt)](https://github.com/furkantarikgocmen/CENG101/raw/master/ppts/Course%20Overview.ppt)**
