@@ -65,3 +65,11 @@ Furkan Tarık GÖÇMEN
 * [![Part 2](https://img.youtube.com/vi/73AIodK6w14/0.jpg)](https://www.youtube.com/watch?v=73AIodK6w14)
 * **Part 3**
 * [![Part 3](https://img.youtube.com/vi/2oxsNr-UpE0/0.jpg)](https://www.youtube.com/watch?v=2oxsNr-UpE0)
+
+### Chapter 6
+* **Part 1**
+* [![Part 1](https://img.youtube.com/vi/eZ8xJ0slzis/0.jpg)](https://www.youtube.com/watch?v=eZ8xJ0slzis)
+* **Part 2**
+* [![Part 2](https://img.youtube.com/vi/BYnjtVJJRZU/0.jpg)](https://www.youtube.com/watch?v=BYnjtVJJRZU)
+* **Part 3**
+* [![Part 3](https://img.youtube.com/vi/rbdtSVDOrTA/0.jpg)](https://www.youtube.com/watch?v=rbdtSVDOrTA)
