@@ -73,3 +73,9 @@ Furkan Tarık GÖÇMEN
 * [![Part 2](https://img.youtube.com/vi/BYnjtVJJRZU/0.jpg)](https://www.youtube.com/watch?v=BYnjtVJJRZU)
 * **Part 3**
 * [![Part 3](https://img.youtube.com/vi/rbdtSVDOrTA/0.jpg)](https://www.youtube.com/watch?v=rbdtSVDOrTA)
+
+### Chapter 7
+* **Part 1**
+* [![Part 1](https://img.youtube.com/vi/C4jQr_-MUrs/0.jpg)](https://www.youtube.com/watch?v=C4jQr_-MUrs)
+* **Part 2**
+* [![Part 2](https://img.youtube.com/vi/l3ldZeTX0j8/0.jpg)](https://www.youtube.com/watch?v=l3ldZeTX0j8)
