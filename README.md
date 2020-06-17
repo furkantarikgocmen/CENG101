@@ -37,6 +37,10 @@ Furkan Tarık GÖÇMEN
 ## Project
 * **Groups [(pdf)](https://github.com/furkantarikgocmen/CENG101/blob/master/Project_Groups.pdf) [(xlsx)](https://github.com/furkantarikgocmen/CENG101/blob/master/Project_Groups.xlsx?raw=true)**
 
+## Quiz & Midterm Grades
+* **Quiz [(pdf)](https://github.com/furkantarikgocmen/CENG101/blob/master/notlarver1.pdf) [(xlsx)](https://github.com/furkantarikgocmen/CENG101/blob/master/notlarver1.xlsx?raw=true)**
+* **Midterm [(pdf)](https://github.com/furkantarikgocmen/CENG101/blob/master/Grades.pdf)**
+
 ## Slides
 * **Course Overview [(ppt)](https://github.com/furkantarikgocmen/CENG101/raw/master/ppts/Course%20Overview.ppt)**
 * **About Prof. Ozarar [(ppt)](https://github.com/furkantarikgocmen/CENG101/raw/master/ppts/About%20Prof%20Ozarar.pptx)**
