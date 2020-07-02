@@ -40,6 +40,7 @@ Furkan Tarık GÖÇMEN
 ## Quiz & Midterm Grades
 * **Quiz [(pdf)](https://github.com/furkantarikgocmen/CENG101/blob/master/notlarver1.pdf) [(xlsx)](https://github.com/furkantarikgocmen/CENG101/blob/master/notlarver1.xlsx?raw=true)**
 * **Midterm [(pdf)](https://github.com/furkantarikgocmen/CENG101/blob/master/Grades.pdf)**
+* **Total Grades [(xlsx)](https://github.com/furkantarikgocmen/CENG101/blob/master/ceng101grades.xlsx?raw=true)**
 
 ## Slides
 * **Course Overview [(ppt)](https://github.com/furkantarikgocmen/CENG101/raw/master/ppts/Course%20Overview.ppt)**
